@@ -1,0 +1,6 @@
+i created a branch_1 and then i created text_2 on branch_1 and commited, but i found that the repository in webpage has not been changed,
+and there was no news in slack
+at 14:12
+
+
+now i will try to publish this branch_1 and see what will happen
